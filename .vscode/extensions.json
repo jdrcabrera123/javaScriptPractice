@@ -1,0 +1,11 @@
+{
+    "recommendations": [
+        "ritwickdey.liveserver",
+        "xabikos.javascriptsnippets",
+        "ecmel.vscode-html-css",
+        "naumovs.color-highlight",
+        "formulahendry.code-runner",
+        "dzhavat.bracket-pair-toggler",
+        "formulahendry.auto-rename-tag"
+    ]
+}
